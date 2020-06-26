@@ -1,0 +1,40 @@
+Notación Infija: Se escriben los operadores entre los operandos en que están actuando (ej. 2 + 2).En la notación de infijo, a diferencia de las notaciones de prefijo o posfijo, es necesario rodear entre paréntesis a los grupos de operandos y operadores, para indicar el orden en el cual deben ser realizadas las operaciones. En la ausencia de paréntesis, ciertas reglas de prioridad determinan el orden de las operaciones.
+
+Tipo de Dato: Integer de logintud máxima 32 caracteres
+
+Identificador: Deben comenzar con una letra y están compuestos de letras y dígitos -> Expresión Regular [a-Z][a-Z0-9]{0,31}
+
+Constantes: Secuencias de dígitos (números enteros) -> Expresión Regular [0-9]*
+
+Operaciones:  Asignación -> ID := Expresión , Entrada/Salida -> leer (lista de IDs) , escribir (lista de Expresiones)
+
+Ejemplo: inicio leer (a,b); cc := a + (b-2); escribir (cc, a+4); fin
+
+Analisis Lexico del Ejemplo
+
+palabraReservada (LR finito) --> inicio | leer | escribir | fin
+identificador (LR infinito) --> a | b | cc
+constante --> 2 | 4
+operador --> + | -
+asignación --> :=
+carácterPuntuación --> ; | ) | ( | ,
+
+Gramática Léxica (Si hay dudas leer tomo 1 desde página 42 a 66)
+
+<token> -> uno de <identificador> <constante> <palabraReservada>
+<operadorAditivo> <asignación> <carácterPuntuación>
+<identificador> -> <letra> {<letra o dígito>}
+<constante> -> <dígito> {dígito>}
+<letra o dígito> -> uno de <letra> <dígito>
+<letra> -> una de a-z A-Z
+<dígito> -> uno de 0-9
+<palabraReservada> -> una de inicio fin leer escribir
+<operadorAditivo> -> uno de + -
+<asignación> -> :=
+<carácterPuntuación> -> uno de ( ) , ;
+
+Analisis Gramática Léxica
+
+Conjunto de noterminales: identificador constante palabraReservada operadorAditivo asignación carácterPuntuación
+Conjunto de terminales: a-z A-Z 0-9 inicio fin leer escribir + - :=
+conjunto de metasímbolos: -> { } uno de
