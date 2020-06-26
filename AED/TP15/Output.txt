@@ -1,0 +1,19 @@
+El array original:
+21 6 15 7 99 12 24 2 33 13
+
+El array no esta ordenado en orden no decreciente.
+
+Se buscara el numero 7 en el array utilizando busqueda sencuencial:
+El numero buscado se encuentra en la posicion 3 (siendo 0 la primera posicion).
+
+
+Aplicando metodo de ordenamiento por insercion:
+2 6 7 12 13 15 21 24 33 99
+
+El array esta correctamente ordenado en orden no decreciente.
+
+Se buscara el numero 7 en el array utilizando busqueda binaria:
+El numero buscado se encuentra en la posicion 2 (siendo 0 la primera posicion).
+
+
+--------------------------------

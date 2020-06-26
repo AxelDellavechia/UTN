@@ -1,0 +1,723 @@
+        +-------------------------------------+
+        |Algoritmos y Estructuras de Datos    |
+        |UTN-FRBA-Curso K1051                 |
+        |TP No 16 - Stacks y Queues           |
+        +-------------------------------------+
+
+
+
+
+Seleccione opcion:
+1:Hacer push de un entero en el stack
+2:Hacer pop del stack
+3:Hacer pop del stack hasta vaciarlo (composicion de pops recursivos)
+4:Encolar un entero en la cola
+5:Desencolar de la cola
+6:Mostrar stack y cola
+0:Salir
+6
+
+El contenido del Stack es:
+0 0 0 0 0 0 0 0 0 0
+
+El contenido de la Cola es:
+0 0 0 0 0 0 0 0 0 0
+
+Seleccione opcion:
+1:Hacer push de un entero en el stack
+2:Hacer pop del stack
+3:Hacer pop del stack hasta vaciarlo (composicion de pops recursivos)
+4:Encolar un entero en la cola
+5:Desencolar de la cola
+6:Mostrar stack y cola
+0:Salir
+1
+
+
+Ingrese el entero que ingresar en el push: 2
+
+La altura del Stack es: 1
+
+Seleccione opcion:
+1:Hacer push de un entero en el stack
+2:Hacer pop del stack
+3:Hacer pop del stack hasta vaciarlo (composicion de pops recursivos)
+4:Encolar un entero en la cola
+5:Desencolar de la cola
+6:Mostrar stack y cola
+0:Salir
+1
+
+
+Ingrese el entero que ingresar en el push: 69
+
+La altura del Stack es: 2
+
+Seleccione opcion:
+1:Hacer push de un entero en el stack
+2:Hacer pop del stack
+3:Hacer pop del stack hasta vaciarlo (composicion de pops recursivos)
+4:Encolar un entero en la cola
+5:Desencolar de la cola
+6:Mostrar stack y cola
+0:Salir
+1
+
+
+Ingrese el entero que ingresar en el push: 265
+
+La altura del Stack es: 3
+
+Seleccione opcion:
+1:Hacer push de un entero en el stack
+2:Hacer pop del stack
+3:Hacer pop del stack hasta vaciarlo (composicion de pops recursivos)
+4:Encolar un entero en la cola
+5:Desencolar de la cola
+6:Mostrar stack y cola
+0:Salir
+1
+
+
+Ingrese el entero que ingresar en el push: 23
+
+La altura del Stack es: 4
+
+Seleccione opcion:
+1:Hacer push de un entero en el stack
+2:Hacer pop del stack
+3:Hacer pop del stack hasta vaciarlo (composicion de pops recursivos)
+4:Encolar un entero en la cola
+5:Desencolar de la cola
+6:Mostrar stack y cola
+0:Salir
+1
+
+
+Ingrese el entero que ingresar en el push: 35
+
+La altura del Stack es: 5
+
+Seleccione opcion:
+1:Hacer push de un entero en el stack
+2:Hacer pop del stack
+3:Hacer pop del stack hasta vaciarlo (composicion de pops recursivos)
+4:Encolar un entero en la cola
+5:Desencolar de la cola
+6:Mostrar stack y cola
+0:Salir
+1
+
+
+Ingrese el entero que ingresar en el push: 221
+
+La altura del Stack es: 6
+
+Seleccione opcion:
+1:Hacer push de un entero en el stack
+2:Hacer pop del stack
+3:Hacer pop del stack hasta vaciarlo (composicion de pops recursivos)
+4:Encolar un entero en la cola
+5:Desencolar de la cola
+6:Mostrar stack y cola
+0:Salir
+1
+
+
+Ingrese el entero que ingresar en el push: 98
+
+La altura del Stack es: 7
+
+Seleccione opcion:
+1:Hacer push de un entero en el stack
+2:Hacer pop del stack
+3:Hacer pop del stack hasta vaciarlo (composicion de pops recursivos)
+4:Encolar un entero en la cola
+5:Desencolar de la cola
+6:Mostrar stack y cola
+0:Salir
+2
+
+
+El pop da como resultado el entero: 98
+La altura del Stack es: 6
+
+Seleccione opcion:
+1:Hacer push de un entero en el stack
+2:Hacer pop del stack
+3:Hacer pop del stack hasta vaciarlo (composicion de pops recursivos)
+4:Encolar un entero en la cola
+5:Desencolar de la cola
+6:Mostrar stack y cola
+0:Salir
+1
+
+
+Ingrese el entero que ingresar en el push: 77
+
+La altura del Stack es: 7
+
+Seleccione opcion:
+1:Hacer push de un entero en el stack
+2:Hacer pop del stack
+3:Hacer pop del stack hasta vaciarlo (composicion de pops recursivos)
+4:Encolar un entero en la cola
+5:Desencolar de la cola
+6:Mostrar stack y cola
+0:Salir
+1
+
+
+Ingrese el entero que ingresar en el push: 89
+
+La altura del Stack es: 8
+
+Seleccione opcion:
+1:Hacer push de un entero en el stack
+2:Hacer pop del stack
+3:Hacer pop del stack hasta vaciarlo (composicion de pops recursivos)
+4:Encolar un entero en la cola
+5:Desencolar de la cola
+6:Mostrar stack y cola
+0:Salir
+1
+
+
+Ingrese el entero que ingresar en el push: 101
+
+La altura del Stack es: 9
+
+Seleccione opcion:
+1:Hacer push de un entero en el stack
+2:Hacer pop del stack
+3:Hacer pop del stack hasta vaciarlo (composicion de pops recursivos)
+4:Encolar un entero en la cola
+5:Desencolar de la cola
+6:Mostrar stack y cola
+0:Salir
+1
+
+
+Ingrese el entero que ingresar en el push: 888
+
+La altura del Stack es: 10
+
+Seleccione opcion:
+1:Hacer push de un entero en el stack
+2:Hacer pop del stack
+3:Hacer pop del stack hasta vaciarlo (composicion de pops recursivos)
+4:Encolar un entero en la cola
+5:Desencolar de la cola
+6:Mostrar stack y cola
+0:Salir
+1
+
+
+Ingrese el entero que ingresar en el push: 2
+
+
+El Stack esta lleno.
+La altura del Stack es: 10
+
+Seleccione opcion:
+1:Hacer push de un entero en el stack
+2:Hacer pop del stack
+3:Hacer pop del stack hasta vaciarlo (composicion de pops recursivos)
+4:Encolar un entero en la cola
+5:Desencolar de la cola
+6:Mostrar stack y cola
+0:Salir
+6
+
+El contenido del Stack es:
+2 69 265 23 35 221 77 89 101 888
+
+El contenido de la Cola es:
+0 0 0 0 0 0 0 0 0 0
+
+Seleccione opcion:
+1:Hacer push de un entero en el stack
+2:Hacer pop del stack
+3:Hacer pop del stack hasta vaciarlo (composicion de pops recursivos)
+4:Encolar un entero en la cola
+5:Desencolar de la cola
+6:Mostrar stack y cola
+0:Salir
+2
+
+
+El pop da como resultado el entero: 888
+La altura del Stack es: 9
+
+Seleccione opcion:
+1:Hacer push de un entero en el stack
+2:Hacer pop del stack
+3:Hacer pop del stack hasta vaciarlo (composicion de pops recursivos)
+4:Encolar un entero en la cola
+5:Desencolar de la cola
+6:Mostrar stack y cola
+0:Salir
+2
+
+
+El pop da como resultado el entero: 101
+La altura del Stack es: 8
+
+Seleccione opcion:
+1:Hacer push de un entero en el stack
+2:Hacer pop del stack
+3:Hacer pop del stack hasta vaciarlo (composicion de pops recursivos)
+4:Encolar un entero en la cola
+5:Desencolar de la cola
+6:Mostrar stack y cola
+0:Salir
+2
+
+
+El pop da como resultado el entero: 89
+La altura del Stack es: 7
+
+Seleccione opcion:
+1:Hacer push de un entero en el stack
+2:Hacer pop del stack
+3:Hacer pop del stack hasta vaciarlo (composicion de pops recursivos)
+4:Encolar un entero en la cola
+5:Desencolar de la cola
+6:Mostrar stack y cola
+0:Salir
+2
+
+
+El pop da como resultado el entero: 77
+La altura del Stack es: 6
+
+Seleccione opcion:
+1:Hacer push de un entero en el stack
+2:Hacer pop del stack
+3:Hacer pop del stack hasta vaciarlo (composicion de pops recursivos)
+4:Encolar un entero en la cola
+5:Desencolar de la cola
+6:Mostrar stack y cola
+0:Salir
+3
+
+
+El pop da como resultado el entero: 221
+
+El pop da como resultado el entero: 35
+
+El pop da como resultado el entero: 23
+
+El pop da como resultado el entero: 265
+
+El pop da como resultado el entero: 69
+
+El pop da como resultado el entero: 2
+
+El Stack esta vacio.
+La altura del Stack es: 0
+
+Seleccione opcion:
+1:Hacer push de un entero en el stack
+2:Hacer pop del stack
+3:Hacer pop del stack hasta vaciarlo (composicion de pops recursivos)
+4:Encolar un entero en la cola
+5:Desencolar de la cola
+6:Mostrar stack y cola
+0:Salir
+4
+
+
+Ingrese el entero que encolar: 25
+
+El largo de la Cola es: 1
+
+Seleccione opcion:
+1:Hacer push de un entero en el stack
+2:Hacer pop del stack
+3:Hacer pop del stack hasta vaciarlo (composicion de pops recursivos)
+4:Encolar un entero en la cola
+5:Desencolar de la cola
+6:Mostrar stack y cola
+0:Salir
+4
+
+
+Ingrese el entero que encolar: 91
+
+El largo de la Cola es: 2
+
+Seleccione opcion:
+1:Hacer push de un entero en el stack
+2:Hacer pop del stack
+3:Hacer pop del stack hasta vaciarlo (composicion de pops recursivos)
+4:Encolar un entero en la cola
+5:Desencolar de la cola
+6:Mostrar stack y cola
+0:Salir
+4
+
+
+Ingrese el entero que encolar: 298
+
+El largo de la Cola es: 3
+
+Seleccione opcion:
+1:Hacer push de un entero en el stack
+2:Hacer pop del stack
+3:Hacer pop del stack hasta vaciarlo (composicion de pops recursivos)
+4:Encolar un entero en la cola
+5:Desencolar de la cola
+6:Mostrar stack y cola
+0:Salir
+4
+
+
+Ingrese el entero que encolar: 333
+
+El largo de la Cola es: 4
+
+Seleccione opcion:
+1:Hacer push de un entero en el stack
+2:Hacer pop del stack
+3:Hacer pop del stack hasta vaciarlo (composicion de pops recursivos)
+4:Encolar un entero en la cola
+5:Desencolar de la cola
+6:Mostrar stack y cola
+0:Salir
+4
+
+
+Ingrese el entero que encolar: 759
+
+El largo de la Cola es: 5
+
+Seleccione opcion:
+1:Hacer push de un entero en el stack
+2:Hacer pop del stack
+3:Hacer pop del stack hasta vaciarlo (composicion de pops recursivos)
+4:Encolar un entero en la cola
+5:Desencolar de la cola
+6:Mostrar stack y cola
+0:Salir
+4
+
+
+Ingrese el entero que encolar: 707
+
+El largo de la Cola es: 6
+
+Seleccione opcion:
+1:Hacer push de un entero en el stack
+2:Hacer pop del stack
+3:Hacer pop del stack hasta vaciarlo (composicion de pops recursivos)
+4:Encolar un entero en la cola
+5:Desencolar de la cola
+6:Mostrar stack y cola
+0:Salir
+4
+
+
+Ingrese el entero que encolar: 222
+
+El largo de la Cola es: 7
+
+Seleccione opcion:
+1:Hacer push de un entero en el stack
+2:Hacer pop del stack
+3:Hacer pop del stack hasta vaciarlo (composicion de pops recursivos)
+4:Encolar un entero en la cola
+5:Desencolar de la cola
+6:Mostrar stack y cola
+0:Salir
+5
+
+
+El desencolar da como resultado el entero: 25
+La posicion del front es: 1
+
+Seleccione opcion:
+1:Hacer push de un entero en el stack
+2:Hacer pop del stack
+3:Hacer pop del stack hasta vaciarlo (composicion de pops recursivos)
+4:Encolar un entero en la cola
+5:Desencolar de la cola
+6:Mostrar stack y cola
+0:Salir
+4
+
+
+Ingrese el entero que encolar: 111
+
+El largo de la Cola es: 7
+
+Seleccione opcion:
+1:Hacer push de un entero en el stack
+2:Hacer pop del stack
+3:Hacer pop del stack hasta vaciarlo (composicion de pops recursivos)
+4:Encolar un entero en la cola
+5:Desencolar de la cola
+6:Mostrar stack y cola
+0:Salir
+4
+
+
+Ingrese el entero que encolar: 626
+
+El largo de la Cola es: 8
+
+Seleccione opcion:
+1:Hacer push de un entero en el stack
+2:Hacer pop del stack
+3:Hacer pop del stack hasta vaciarlo (composicion de pops recursivos)
+4:Encolar un entero en la cola
+5:Desencolar de la cola
+6:Mostrar stack y cola
+0:Salir
+4
+
+
+Ingrese el entero que encolar: 8
+
+El largo de la Cola es: 9
+
+Seleccione opcion:
+1:Hacer push de un entero en el stack
+2:Hacer pop del stack
+3:Hacer pop del stack hasta vaciarlo (composicion de pops recursivos)
+4:Encolar un entero en la cola
+5:Desencolar de la cola
+6:Mostrar stack y cola
+0:Salir
+4
+
+
+Ingrese el entero que encolar: 71
+
+El largo de la Cola es: 10
+
+Seleccione opcion:
+1:Hacer push de un entero en el stack
+2:Hacer pop del stack
+3:Hacer pop del stack hasta vaciarlo (composicion de pops recursivos)
+4:Encolar un entero en la cola
+5:Desencolar de la cola
+6:Mostrar stack y cola
+0:Salir
+4
+
+
+Ingrese el entero que encolar: 2
+
+
+La Cola esta llena.
+El largo de la Cola es: 10
+
+Seleccione opcion:
+1:Hacer push de un entero en el stack
+2:Hacer pop del stack
+3:Hacer pop del stack hasta vaciarlo (composicion de pops recursivos)
+4:Encolar un entero en la cola
+5:Desencolar de la cola
+6:Mostrar stack y cola
+0:Salir
+5
+
+
+El desencolar da como resultado el entero: 91
+La posicion del front es: 2
+
+Seleccione opcion:
+1:Hacer push de un entero en el stack
+2:Hacer pop del stack
+3:Hacer pop del stack hasta vaciarlo (composicion de pops recursivos)
+4:Encolar un entero en la cola
+5:Desencolar de la cola
+6:Mostrar stack y cola
+0:Salir
+5
+
+
+El desencolar da como resultado el entero: 298
+La posicion del front es: 3
+
+Seleccione opcion:
+1:Hacer push de un entero en el stack
+2:Hacer pop del stack
+3:Hacer pop del stack hasta vaciarlo (composicion de pops recursivos)
+4:Encolar un entero en la cola
+5:Desencolar de la cola
+6:Mostrar stack y cola
+0:Salir
+5
+
+
+El desencolar da como resultado el entero: 333
+La posicion del front es: 4
+
+Seleccione opcion:
+1:Hacer push de un entero en el stack
+2:Hacer pop del stack
+3:Hacer pop del stack hasta vaciarlo (composicion de pops recursivos)
+4:Encolar un entero en la cola
+5:Desencolar de la cola
+6:Mostrar stack y cola
+0:Salir
+5
+
+
+El desencolar da como resultado el entero: 759
+La posicion del front es: 5
+
+Seleccione opcion:
+1:Hacer push de un entero en el stack
+2:Hacer pop del stack
+3:Hacer pop del stack hasta vaciarlo (composicion de pops recursivos)
+4:Encolar un entero en la cola
+5:Desencolar de la cola
+6:Mostrar stack y cola
+0:Salir
+5
+
+
+El desencolar da como resultado el entero: 707
+La posicion del front es: 6
+
+Seleccione opcion:
+1:Hacer push de un entero en el stack
+2:Hacer pop del stack
+3:Hacer pop del stack hasta vaciarlo (composicion de pops recursivos)
+4:Encolar un entero en la cola
+5:Desencolar de la cola
+6:Mostrar stack y cola
+0:Salir
+5
+
+
+El desencolar da como resultado el entero: 222
+La posicion del front es: 7
+
+Seleccione opcion:
+1:Hacer push de un entero en el stack
+2:Hacer pop del stack
+3:Hacer pop del stack hasta vaciarlo (composicion de pops recursivos)
+4:Encolar un entero en la cola
+5:Desencolar de la cola
+6:Mostrar stack y cola
+0:Salir
+5
+
+
+El desencolar da como resultado el entero: 111
+La posicion del front es: 8
+
+Seleccione opcion:
+1:Hacer push de un entero en el stack
+2:Hacer pop del stack
+3:Hacer pop del stack hasta vaciarlo (composicion de pops recursivos)
+4:Encolar un entero en la cola
+5:Desencolar de la cola
+6:Mostrar stack y cola
+0:Salir
+5
+
+
+El desencolar da como resultado el entero: 626
+La posicion del front es: 9
+
+Seleccione opcion:
+1:Hacer push de un entero en el stack
+2:Hacer pop del stack
+3:Hacer pop del stack hasta vaciarlo (composicion de pops recursivos)
+4:Encolar un entero en la cola
+5:Desencolar de la cola
+6:Mostrar stack y cola
+0:Salir
+5
+
+
+El desencolar da como resultado el entero: 8
+La posicion del front es: 0
+
+Seleccione opcion:
+1:Hacer push de un entero en el stack
+2:Hacer pop del stack
+3:Hacer pop del stack hasta vaciarlo (composicion de pops recursivos)
+4:Encolar un entero en la cola
+5:Desencolar de la cola
+6:Mostrar stack y cola
+0:Salir
+5
+
+
+El desencolar da como resultado el entero: 71
+La posicion del front es: 1
+
+Seleccione opcion:
+1:Hacer push de un entero en el stack
+2:Hacer pop del stack
+3:Hacer pop del stack hasta vaciarlo (composicion de pops recursivos)
+4:Encolar un entero en la cola
+5:Desencolar de la cola
+6:Mostrar stack y cola
+0:Salir
+5
+
+
+La Cola esta vacia.
+La posicion del front es: 1
+
+Seleccione opcion:
+1:Hacer push de un entero en el stack
+2:Hacer pop del stack
+3:Hacer pop del stack hasta vaciarlo (composicion de pops recursivos)
+4:Encolar un entero en la cola
+5:Desencolar de la cola
+6:Mostrar stack y cola
+0:Salir
+4
+
+
+Ingrese el entero que encolar: 979
+
+El largo de la Cola es: 1
+
+Seleccione opcion:
+1:Hacer push de un entero en el stack
+2:Hacer pop del stack
+3:Hacer pop del stack hasta vaciarlo (composicion de pops recursivos)
+4:Encolar un entero en la cola
+5:Desencolar de la cola
+6:Mostrar stack y cola
+0:Salir
+5
+
+
+El desencolar da como resultado el entero: 979
+La posicion del front es: 2
+
+Seleccione opcion:
+1:Hacer push de un entero en el stack
+2:Hacer pop del stack
+3:Hacer pop del stack hasta vaciarlo (composicion de pops recursivos)
+4:Encolar un entero en la cola
+5:Desencolar de la cola
+6:Mostrar stack y cola
+0:Salir
+5
+
+
+La Cola esta vacia.
+La posicion del front es: 2
+
+Seleccione opcion:
+1:Hacer push de un entero en el stack
+2:Hacer pop del stack
+3:Hacer pop del stack hasta vaciarlo (composicion de pops recursivos)
+4:Encolar un entero en la cola
+5:Desencolar de la cola
+6:Mostrar stack y cola
+0:Salir
+0
+
+--------------------------------

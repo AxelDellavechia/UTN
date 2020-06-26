@@ -1,0 +1,263 @@
+        +-------------------------------------+
+        |Algoritmos y Estructuras de Datos    |
+        |UTN-FRBA-Curso K1051                 |
+        |TP No 11 - Figuras con structs       |
+        +-------------------------------------+
+
+
+
+Indique que accion desea realizar a continuacion:
+
+1 - Insertar triangulo
+2 - Insertar circulo
+3 - Insertar rectangulo
+4 - Ver figuras
+5 - Operar con figuras
+Q - Salir
+
+1
+Inserte la coordenadas X del primer punto: 2.2
+Inserte la coordenadas Y del primer punto: 3.5
+Inserte la coordenadas X del segundo punto: 6.2
+Inserte la coordenadas Y del segundo punto: 1.5
+Inserte la coordenadas X del tercer punto: 7.8
+Inserte la coordenadas Y del tercer punto: 9.9
+
+
+Indique que accion desea realizar a continuacion:
+
+1 - Insertar triangulo
+2 - Insertar circulo
+3 - Insertar rectangulo
+4 - Ver figuras
+5 - Operar con figuras
+Q - Salir
+
+2
+Inserte la coordenadas X del centro: 3.5
+Inserte la coordenadas Y del centro: 4.2
+Inserte la longitud del radio del circulo: 8
+
+
+Indique que accion desea realizar a continuacion:
+
+1 - Insertar triangulo
+2 - Insertar circulo
+3 - Insertar rectangulo
+4 - Ver figuras
+5 - Operar con figuras
+Q - Salir
+
+3
+Inserte la coordenadas X del primer punto: 12.4
+Inserte la coordenadas Y del primer punto: 53.2
+Inserte la coordenadas X del segundo punto: 7.89
+Inserte la coordenadas Y del segundo punto: 9.9
+
+
+Indique que accion desea realizar a continuacion:
+
+1 - Insertar triangulo
+2 - Insertar circulo
+3 - Insertar rectangulo
+4 - Ver figuras
+5 - Operar con figuras
+Q - Salir
+
+4
+
+Triangulo numero 1 :
+Coordenadas del primer vertice: (2.2 , 3.5)
+Coordenadas del segundo vertice: (6.2 , 1.5)
+Coordenadas del tercer vertice: (7.8 , 9.9)
+
+
+Circulo numero 1 :
+Coordenadas del centro: (3.5 , 4.2)
+Longitud del radio: 8
+
+
+Rectangulo numero 1 :
+Coordenadas del primer vertice: (12.4 , 53.2)
+Coordenadas del segundo vertice: (7.89 , 9.9)
+
+
+Indique que accion desea realizar a continuacion:
+
+1 - Insertar triangulo
+2 - Insertar circulo
+3 - Insertar rectangulo
+4 - Ver figuras
+5 - Operar con figuras
+Q - Salir
+
+2
+Inserte la coordenadas X del centro: 2.4
+Inserte la coordenadas Y del centro: 5.68
+Inserte la longitud del radio del circulo: 9
+
+
+Indique que accion desea realizar a continuacion:
+
+1 - Insertar triangulo
+2 - Insertar circulo
+3 - Insertar rectangulo
+4 - Ver figuras
+5 - Operar con figuras
+Q - Salir
+
+4
+
+Triangulo numero 1 :
+Coordenadas del primer vertice: (2.2 , 3.5)
+Coordenadas del segundo vertice: (6.2 , 1.5)
+Coordenadas del tercer vertice: (7.8 , 9.9)
+
+
+Circulo numero 1 :
+Coordenadas del centro: (3.5 , 4.2)
+Longitud del radio: 8
+
+
+Circulo numero 2 :
+Coordenadas del centro: (2.4 , 5.68)
+Longitud del radio: 9
+
+
+Rectangulo numero 1 :
+Coordenadas del primer vertice: (12.4 , 53.2)
+Coordenadas del segundo vertice: (7.89 , 9.9)
+
+
+Indique que accion desea realizar a continuacion:
+
+1 - Insertar triangulo
+2 - Insertar circulo
+3 - Insertar rectangulo
+4 - Ver figuras
+5 - Operar con figuras
+Q - Salir
+
+5
+
+Indique sobre que tipo de figura desea operar:
+
+1 - Triangulo
+2 - Circulo
+3 - Rectangulo
+4 - Ver figuras
+Q - Salir
+
+1
+
+Indique el numero de triangulo sobre el que desea operar.
+Actualmente existen 1 figuras de este tipo:
+1
+
+Figura numero 1 seleccionada.
+
+Indique que accion desea realizar sobre el triangulo seleccionado:
+
+1 - Devolver perimetro
+2 - Devolver area
+3 - Determinar si es isosceles
+4 - Determinar si es equilatero
+5 - Determinar si es escaleno
+6 - Inscribir el triangulo en un rectangulo
+7 - Comparar dos triangulos
+Q - Salir
+
+q
+
+Indique que accion desea realizar a continuacion:
+
+1 - Insertar triangulo
+2 - Insertar circulo
+3 - Insertar rectangulo
+4 - Ver figuras
+5 - Operar con figuras
+Q - Salir
+
+5
+
+Indique sobre que tipo de figura desea operar:
+
+1 - Triangulo
+2 - Circulo
+3 - Rectangulo
+4 - Ver figuras
+Q - Salir
+
+2
+
+Indique el numero de circulo sobre el que desea operar.
+Actualmente existen 2 figuras de este tipo:
+2
+
+Figura numero 2 seleccionada.
+
+Indique que accion desea realizar sobre el circulo seleccionado:
+
+1 - Devolver perimetro
+2 - Devolver area
+3 - Devolver diametro
+4 - Incrementar porcentualmente
+5 - Comparar dos circulos
+6 - Distancia entre circulos
+7 - Interseccion entre circulos
+Q - Salir
+
+q
+
+Indique que accion desea realizar a continuacion:
+
+1 - Insertar triangulo
+2 - Insertar circulo
+3 - Insertar rectangulo
+4 - Ver figuras
+5 - Operar con figuras
+Q - Salir
+
+5
+
+Indique sobre que tipo de figura desea operar:
+
+1 - Triangulo
+2 - Circulo
+3 - Rectangulo
+4 - Ver figuras
+Q - Salir
+
+3
+
+Indique el numero de rectangulo sobre el que desea operar.
+Actualmente existen 1 figuras de este tipo:
+1
+
+Figura numero 1 seleccionada.
+
+Indique que accion desea realizar sobre el rectangulo seleccionado:
+
+1 - Devolver perimetro
+2 - Devolver area
+3 - Devolver longitud de la diagonal
+4 - Devolver base del rectangulo
+5 - Devolver altura del rectangulo
+6 - Determinar si es cuadrado
+7 - Comparar dos rectangulos
+Q - Salir
+
+q
+
+Indique que accion desea realizar a continuacion:
+
+1 - Insertar triangulo
+2 - Insertar circulo
+3 - Insertar rectangulo
+4 - Ver figuras
+5 - Operar con figuras
+Q - Salir
+
+q
+
+--------------------------------
