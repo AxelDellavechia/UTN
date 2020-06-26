@@ -1,0 +1,333 @@
+[INFO] 21:45:20:451 SacCli.log/(10559:10559): Por setear los valores del archivo de configuracion
+[INFO] 21:45:20:451 SacCli.log/(10559:10559): LFS: Leyendo Archivo de Configuracion..
+[INFO] 21:45:20:451 SacCli.log/(10559:10559): Se encontró y cargó el contido del IP_SAC SERVER a la estrcutra. Valor: 172
+[INFO] 21:45:20:451 SacCli.log/(10559:10559): Se encontró y cargó el contenido de PUERTO_SAC SERVER a la estructura. Valor: 8001
+[INFO] 21:45:20:451 SacCli.log/(10559:10559): [SOCKETS] No se pudo realizar la conexión entre el socket y el servidor.
+[INFO] 14:13:29:961 SacCli.log/(16217:16217): Por setear los valores del archivo de configuracion
+[INFO] 14:13:30:778 SacCli.log/(16217:16217): Se encontró y cargó el contenido de PUNTO_MONTAJE a la estructura. Valor: (null)
+[INFO] 14:13:36:378 SacCli.log/(16217:16217): fdSacServer:4
+[INFO] 14:13:36:378 SacCli.log/(16217:16217): ipServer:(null)
+[INFO] 14:13:36:378 SacCli.log/(16217:16217): portServer:0
+[INFO] 14:14:18:588 SacCli.log/(16279:16279): Por setear los valores del archivo de configuracion
+[INFO] 14:14:18:588 SacCli.log/(16279:16279): Se encontró y cargó el contenido de PUNTO_MONTAJE a la estructura. Valor: (null)
+[INFO] 14:17:12:229 SacCli.log/(16424:16424): Por setear los valores del archivo de configuracion
+[INFO] 14:17:12:229 SacCli.log/(16424:16424): Se encontró y cargó el contenido de PUNTO_MONTAJE a la estructura. Valor: (null)
+[INFO] 14:17:16:871 SacCli.log/(16424:16424): fdSacServer:4
+[INFO] 14:17:16:871 SacCli.log/(16424:16424): ipServer:127.0.0.1
+[INFO] 14:17:16:874 SacCli.log/(16424:16424): portServer:134523313
+[INFO] 14:17:16:874 SacCli.log/(16424:16424): [SOCKETS] No se pudo realizar la conexión entre el socket y el servidor.
+[INFO] 14:18:01:697 SacCli.log/(16493:16493): Por setear los valores del archivo de configuracion
+[INFO] 14:18:01:697 SacCli.log/(16493:16493): Se encontró y cargó el contenido de PUNTO_MONTAJE a la estructura. Valor: (null)
+[INFO] 14:18:15:493 SacCli.log/(16493:16493): fdSacServer:4
+[INFO] 14:18:16:328 SacCli.log/(16493:16493): ipServer:127.0.0.1
+[INFO] 14:18:18:431 SacCli.log/(16493:16493): portServer:134523313
+[INFO] 14:19:07:270 SacCli.log/(16588:16588): Por setear los valores del archivo de configuracion
+[INFO] 14:19:07:270 SacCli.log/(16588:16588): Se encontró y cargó el contenido de PUNTO_MONTAJE a la estructura. Valor: (null)
+[INFO] 14:19:10:640 SacCli.log/(16588:16588): fdSacServer:4
+[INFO] 14:19:11:364 SacCli.log/(16588:16588): ipServer:127.0.0.1
+[INFO] 14:19:11:978 SacCli.log/(16588:16588): portServer:8001
+[INFO] 14:19:31:795 SacCli.log/(16588:16588): [SOCKETS] Se pudo realizar la conexión entre el socket y el servidor.
+[INFO] 14:21:32:715 SacCli.log/(16835:16835): Por setear los valores del archivo de configuracion
+[INFO] 14:21:33:329 SacCli.log/(16835:16835): Se encontró y cargó el contenido de PUNTO_MONTAJE a la estructura. Valor: (null)
+[INFO] 14:21:38:45 SacCli.log/(16835:16835): fdSacServer:4
+[INFO] 14:21:38:45 SacCli.log/(16835:16835): ipServer:127.0.0.1
+[INFO] 14:21:38:45 SacCli.log/(16835:16835): portServer:8001
+[INFO] 14:21:38:45 SacCli.log/(16835:16835): [SOCKETS] Se pudo realizar la conexión entre el socket y el servidor.
+[INFO] 14:32:42:641 SacCli.log/(17198:17198): Por setear los valores del archivo de configuracion
+[INFO] 14:32:42:642 SacCli.log/(17198:17198): Se encontró y cargó el contenido de PUNTO_MONTAJE a la estructura. Valor: (null)
+[INFO] 14:32:49:274 SacCli.log/(17198:17198): fdSacServer:4
+[INFO] 14:32:50:284 SacCli.log/(17198:17198): ipServer:127.0.0.1
+[INFO] 14:32:50:894 SacCli.log/(17198:17198): portServer:8001
+[INFO] 14:33:05:722 SacCli.log/(17198:17198): [SOCKETS] Se pudo realizar la conexión entre el socket y el servidor.
+[INFO] 14:37:24:994 SacCli.log/(17820:17820): Por setear los valores del archivo de configuracion
+[INFO] 14:37:25:619 SacCli.log/(17820:17820): Se encontró y cargó el contenido de PUNTO_MONTAJE a la estructura. Valor: (null)
+[INFO] 14:37:27:602 SacCli.log/(17820:17820): fdSacServer:4
+[INFO] 14:37:27:602 SacCli.log/(17820:17820): ipServer:127.0.0.1
+[INFO] 14:37:27:602 SacCli.log/(17820:17820): portServer:8001
+[INFO] 14:37:27:605 SacCli.log/(17820:17820): [SOCKETS] Se pudo realizar la conexión entre el socket y el servidor.
+[INFO] 14:43:26:349 SacCli.log/(18090:18090): Por setear los valores del archivo de configuracion
+[INFO] 14:43:26:573 SacCli.log/(18090:18090): Se encontró y cargó el contenido de PUNTO_MONTAJE a la estructura. Valor: (null)
+[INFO] 14:43:27:442 SacCli.log/(18090:18090): fdSacServer:4
+[INFO] 14:43:27:442 SacCli.log/(18090:18090): ipServer:127.0.0.1
+[INFO] 14:43:27:442 SacCli.log/(18090:18090): portServer:8001
+[INFO] 14:43:27:445 SacCli.log/(18090:18090): [SOCKETS] Se pudo realizar la conexión entre el socket y el servidor.
+[INFO] 14:44:56:10 SacCli.log/(18090:18090): Servidor rechazado.
+
+[INFO] 14:45:21:682 SacCli.log/(18320:18320): Por setear los valores del archivo de configuracion
+[INFO] 14:45:22:275 SacCli.log/(18320:18320): Se encontró y cargó el contenido de PUNTO_MONTAJE a la estructura. Valor: (null)
+[INFO] 14:45:23:665 SacCli.log/(18320:18320): fdSacServer:4
+[INFO] 14:45:23:665 SacCli.log/(18320:18320): ipServer:127.0.0.1
+[INFO] 14:45:23:665 SacCli.log/(18320:18320): portServer:8001
+[INFO] 14:45:23:666 SacCli.log/(18320:18320): [SOCKETS] Se pudo realizar la conexión entre el socket y el servidor.
+[INFO] 14:45:56:432 SacCli.log/(18320:18320): Servidor aceptado.
+
+[INFO] 14:45:59:222 SacCli.log/(18320:18320): Handshake recibido: SacServer
+
+[INFO] 14:51:53:273 SacCli.log/(18686:18686): Por setear los valores del archivo de configuracion
+[INFO] 14:51:53:273 SacCli.log/(18686:18686): Se encontró y cargó el contenido de PUNTO_MONTAJE a la estructura. Valor: (null)
+[INFO] 14:51:53:273 SacCli.log/(18686:18686): fdSacServer:4
+[INFO] 14:51:53:273 SacCli.log/(18686:18686): ipServer:127.0.0.1
+[INFO] 14:51:53:273 SacCli.log/(18686:18686): portServer:8001
+[INFO] 14:51:53:274 SacCli.log/(18686:18686): [SOCKETS] Se pudo realizar la conexión entre el socket y el servidor.
+[INFO] 14:52:37:275 SacCli.log/(18729:18729): Por setear los valores del archivo de configuracion
+[INFO] 14:52:37:868 SacCli.log/(18729:18729): Se encontró y cargó el contenido de PUNTO_MONTAJE a la estructura. Valor: (null)
+[INFO] 14:52:39:576 SacCli.log/(18729:18729): fdSacServer:4
+[INFO] 14:52:39:576 SacCli.log/(18729:18729): ipServer:127.0.0.1
+[INFO] 14:52:39:576 SacCli.log/(18729:18729): portServer:8001
+[INFO] 14:52:39:576 SacCli.log/(18729:18729): [SOCKETS] Se pudo realizar la conexión entre el socket y el servidor.
+[INFO] 14:53:53:823 SacCli.log/(18854:18854): Por setear los valores del archivo de configuracion
+[INFO] 14:53:54:338 SacCli.log/(18854:18854): Se encontró y cargó el contenido de PUNTO_MONTAJE a la estructura. Valor: (null)
+[INFO] 14:53:55:798 SacCli.log/(18854:18854): fdSacServer:4
+[INFO] 14:53:55:798 SacCli.log/(18854:18854): ipServer:127.0.0.1
+[INFO] 14:53:55:798 SacCli.log/(18854:18854): portServer:8001
+[INFO] 14:53:55:798 SacCli.log/(18854:18854): [SOCKETS] Se pudo realizar la conexión entre el socket y el servidor.
+[INFO] 14:55:45:245 SacCli.log/(18854:18854): Servidor aceptado.
+
+[INFO] 14:55:47:584 SacCli.log/(18854:18854): Handshake recibido: SacServer
+
+[INFO] 14:58:46:64 SacCli.log/(19139:19139): Por setear los valores del archivo de configuracion
+[INFO] 14:58:46:577 SacCli.log/(19139:19139): Se encontró y cargó el contenido de PUNTO_MONTAJE a la estructura. Valor: (null)
+[INFO] 14:58:47:793 SacCli.log/(19139:19139): fdSacServer:4
+[INFO] 14:58:47:793 SacCli.log/(19139:19139): ipServer:127.0.0.1
+[INFO] 14:58:47:794 SacCli.log/(19139:19139): portServer:8001
+[INFO] 14:58:47:796 SacCli.log/(19139:19139): [SOCKETS] Se pudo realizar la conexión entre el socket y el servidor.
+[INFO] 15:00:30:734 SacCli.log/(19139:19139): Servidor rechazado.
+
+[INFO] 15:01:19:430 SacCli.log/(19335:19335): Por setear los valores del archivo de configuracion
+[INFO] 15:01:19:923 SacCli.log/(19335:19335): Se encontró y cargó el contenido de PUNTO_MONTAJE a la estructura. Valor: (null)
+[INFO] 15:01:21:136 SacCli.log/(19335:19335): fdSacServer:4
+[INFO] 15:01:21:136 SacCli.log/(19335:19335): ipServer:127.0.0.1
+[INFO] 15:01:21:136 SacCli.log/(19335:19335): portServer:8001
+[INFO] 15:01:21:136 SacCli.log/(19335:19335): [SOCKETS] Se pudo realizar la conexión entre el socket y el servidor.
+[INFO] 15:02:18:565 SacCli.log/(19335:19335): Servidor aceptado.
+
+[INFO] 15:02:23:267 SacCli.log/(19335:19335): Handshake recibido: SacServer
+
+[INFO] 15:07:21:794 SacCli.log/(19707:19707): Por setear los valores del archivo de configuracion
+[INFO] 15:07:22:292 SacCli.log/(19707:19707): Se encontró y cargó el contenido de PUNTO_MONTAJE a la estructura. Valor: (null)
+[INFO] 15:07:23:313 SacCli.log/(19707:19707): fdSacServer:4
+[INFO] 15:07:23:313 SacCli.log/(19707:19707): ipServer:127.0.0.1
+[INFO] 15:07:23:313 SacCli.log/(19707:19707): portServer:8001
+[INFO] 15:07:23:315 SacCli.log/(19707:19707): [SOCKETS] Se pudo realizar la conexión entre el socket y el servidor.
+[INFO] 15:07:54:687 SacCli.log/(19707:19707): Servidor aceptado.
+
+[INFO] 15:07:55:288 SacCli.log/(19707:19707): Handshake recibido: SacServer
+
+[INFO] 15:09:11:422 SacCli.log/(19936:19936): Por setear los valores del archivo de configuracion
+[INFO] 15:09:11:743 SacCli.log/(19936:19936): Se encontró y cargó el contenido de PUNTO_MONTAJE a la estructura. Valor: (null)
+[INFO] 15:09:12:529 SacCli.log/(19936:19936): fdSacServer:4
+[INFO] 15:09:12:529 SacCli.log/(19936:19936): ipServer:127.0.0.1
+[INFO] 15:09:12:529 SacCli.log/(19936:19936): portServer:8001
+[INFO] 15:09:12:529 SacCli.log/(19936:19936): [SOCKETS] No se pudo realizar la conexión entre el socket y el servidor.
+[INFO] 15:10:06:288 SacCli.log/(19990:19990): Por setear los valores del archivo de configuracion
+[INFO] 15:10:06:745 SacCli.log/(19990:19990): Se encontró y cargó el contenido de PUNTO_MONTAJE a la estructura. Valor: (null)
+[INFO] 15:10:07:629 SacCli.log/(19990:19990): fdSacServer:4
+[INFO] 15:10:07:629 SacCli.log/(19990:19990): ipServer:127.0.0.1
+[INFO] 15:10:07:629 SacCli.log/(19990:19990): portServer:8001
+[INFO] 15:10:07:631 SacCli.log/(19990:19990): [SOCKETS] Se pudo realizar la conexión entre el socket y el servidor.
+[INFO] 15:10:33:748 SacCli.log/(19990:19990): Servidor aceptado.
+
+[INFO] 15:10:38:170 SacCli.log/(19990:19990): Handshake recibido: SacServer
+
+[INFO] 15:13:10:197 SacCli.log/(20188:20188): Por setear los valores del archivo de configuracion
+[INFO] 15:13:10:760 SacCli.log/(20188:20188): Se encontró y cargó el contenido de PUNTO_MONTAJE a la estructura. Valor: (null)
+[INFO] 15:13:12:318 SacCli.log/(20188:20188): fdSacServer:4
+[INFO] 15:13:12:318 SacCli.log/(20188:20188): ipServer:127.0.0.1
+[INFO] 15:13:12:318 SacCli.log/(20188:20188): portServer:8001
+[INFO] 15:13:12:321 SacCli.log/(20188:20188): [SOCKETS] Se pudo realizar la conexión entre el socket y el servidor.
+[INFO] 15:13:54:922 SacCli.log/(20188:20188): Servidor aceptado.
+
+[INFO] 15:13:56:280 SacCli.log/(20188:20188): Handshake recibido: SacServer
+
+[INFO] 15:15:31:165 SacCli.log/(20320:20320): Por setear los valores del archivo de configuracion
+[INFO] 15:15:31:368 SacCli.log/(20320:20320): Se encontró y cargó el contenido de PUNTO_MONTAJE a la estructura. Valor: (null)
+[INFO] 15:15:32:163 SacCli.log/(20320:20320): fdSacServer:4
+[INFO] 15:15:32:163 SacCli.log/(20320:20320): ipServer:127.0.0.1
+[INFO] 15:15:32:164 SacCli.log/(20320:20320): portServer:8001
+[INFO] 15:15:32:166 SacCli.log/(20320:20320): [SOCKETS] Se pudo realizar la conexión entre el socket y el servidor.
+[INFO] 15:15:52:34 SacCli.log/(20320:20320): Servidor aceptado.
+
+[INFO] 15:15:52:932 SacCli.log/(20320:20320): Handshake recibido: SacServer
+
+[INFO] 15:18:08:87 SacCli.log/(20466:20466): Por setear los valores del archivo de configuracion
+[INFO] 15:18:08:641 SacCli.log/(20466:20466): Se encontró y cargó el contenido de PUNTO_MONTAJE a la estructura. Valor: (null)
+[INFO] 15:18:09:716 SacCli.log/(20466:20466): fdSacServer:4
+[INFO] 15:18:09:716 SacCli.log/(20466:20466): ipServer:127.0.0.1
+[INFO] 15:18:09:716 SacCli.log/(20466:20466): portServer:8001
+[INFO] 15:18:09:718 SacCli.log/(20466:20466): [SOCKETS] Se pudo realizar la conexión entre el socket y el servidor.
+[INFO] 15:18:52:483 SacCli.log/(20466:20466): Servidor aceptado.
+
+[INFO] 15:18:52:697 SacCli.log/(20466:20466): Handshake recibido: SacServer
+
+[INFO] 15:23:22:174 SacCli.log/(20934:20934): Por setear los valores del archivo de configuracion
+[INFO] 15:23:22:175 SacCli.log/(20934:20934): Se encontró y cargó el contenido de PUNTO_MONTAJE a la estructura. Valor: (null)
+[INFO] 15:23:25:601 SacCli.log/(20934:20934): fdSacServer:4
+[INFO] 15:23:25:601 SacCli.log/(20934:20934): ipServer:127.0.0.1
+[INFO] 15:23:25:601 SacCli.log/(20934:20934): portServer:8001
+[INFO] 15:23:25:606 SacCli.log/(20934:20934): [SOCKETS] Se pudo realizar la conexión entre el socket y el servidor.
+[INFO] 15:23:45:538 SacCli.log/(20934:20934): Servidor aceptado.
+
+[INFO] 15:23:46:259 SacCli.log/(20934:20934): Handshake recibido: SacServer
+
+[INFO] 15:25:43:993 SacCli.log/(21086:21086): Por setear los valores del archivo de configuracion
+[INFO] 15:25:44:426 SacCli.log/(21086:21086): Se encontró y cargó el contenido de PUNTO_MONTAJE a la estructura. Valor: (null)
+[INFO] 15:25:45:356 SacCli.log/(21086:21086): fdSacServer:4
+[INFO] 15:25:45:356 SacCli.log/(21086:21086): ipServer:127.0.0.1
+[INFO] 15:25:45:356 SacCli.log/(21086:21086): portServer:8001
+[INFO] 15:25:45:358 SacCli.log/(21086:21086): [SOCKETS] Se pudo realizar la conexión entre el socket y el servidor.
+[INFO] 15:26:06:64 SacCli.log/(21086:21086): Servidor aceptado.
+
+[INFO] 15:26:06:681 SacCli.log/(21086:21086): Handshake recibido: SacServer
+
+[INFO] 15:33:58:165 SacCli.log/(21479:21479): Por setear los valores del archivo de configuracion
+[INFO] 15:33:58:416 SacCli.log/(21479:21479): Se encontró y cargó el contenido de PUNTO_MONTAJE a la estructura. Valor: (null)
+[INFO] 15:34:01:168 SacCli.log/(21479:21479): fdSacServer:4
+[INFO] 15:34:01:168 SacCli.log/(21479:21479): ipServer:127.0.0.1
+[INFO] 15:34:01:168 SacCli.log/(21479:21479): portServer:8001
+[INFO] 15:34:01:169 SacCli.log/(21479:21479): [SOCKETS] Se pudo realizar la conexión entre el socket y el servidor.
+[INFO] 15:34:20:138 SacCli.log/(21479:21479): Servidor aceptado.
+
+[INFO] 15:34:30:480 SacCli.log/(21479:21479): Handshake recibido: SacServer
+
+[INFO] 15:36:23:708 SacCli.log/(21618:21618): Por setear los valores del archivo de configuracion
+[INFO] 15:36:23:881 SacCli.log/(21618:21618): Se encontró y cargó el contenido de PUNTO_MONTAJE a la estructura. Valor: (null)
+[INFO] 15:36:24:845 SacCli.log/(21618:21618): fdSacServer:4
+[INFO] 15:36:24:845 SacCli.log/(21618:21618): ipServer:127.0.0.1
+[INFO] 15:36:24:845 SacCli.log/(21618:21618): portServer:8001
+[INFO] 15:36:24:848 SacCli.log/(21618:21618): [SOCKETS] Se pudo realizar la conexión entre el socket y el servidor.
+[INFO] 15:36:48:974 SacCli.log/(21618:21618): Servidor aceptado.
+
+[INFO] 15:36:48:974 SacCli.log/(21618:21618): Handshake recibido: SacServer
+
+[INFO] 15:38:48:827 SacCli.log/(21755:21755): Por setear los valores del archivo de configuracion
+[INFO] 15:38:49:348 SacCli.log/(21755:21755): Se encontró y cargó el contenido de PUNTO_MONTAJE a la estructura. Valor: (null)
+[INFO] 15:38:49:774 SacCli.log/(21755:21755): fdSacServer:4
+[INFO] 15:38:49:774 SacCli.log/(21755:21755): ipServer:127.0.0.1
+[INFO] 15:38:49:774 SacCli.log/(21755:21755): portServer:8001
+[INFO] 15:38:49:777 SacCli.log/(21755:21755): [SOCKETS] Se pudo realizar la conexión entre el socket y el servidor.
+[INFO] 15:39:06:988 SacCli.log/(21755:21755): Servidor aceptado.
+
+[INFO] 15:39:09:94 SacCli.log/(21755:21755): Handshake recibido: SacServer
+
+[INFO] 15:40:50:212 SacCli.log/(21905:21905): Por setear los valores del archivo de configuracion
+[INFO] 15:40:50:559 SacCli.log/(21905:21905): Se encontró y cargó el contenido de PUNTO_MONTAJE a la estructura. Valor: (null)
+[INFO] 15:40:51:203 SacCli.log/(21905:21905): fdSacServer:4
+[INFO] 15:40:51:203 SacCli.log/(21905:21905): ipServer:127.0.0.1
+[INFO] 15:40:51:203 SacCli.log/(21905:21905): portServer:8001
+[INFO] 15:40:51:204 SacCli.log/(21905:21905): [SOCKETS] Se pudo realizar la conexión entre el socket y el servidor.
+[INFO] 15:41:12:54 SacCli.log/(21905:21905): Servidor aceptado.
+
+[INFO] 15:41:12:320 SacCli.log/(21905:21905): Handshake recibido: SacServer
+
+[INFO] 19:56:36:651 SacCli.log/(5284:5284): Por setear los valores del archivo de configuracion
+[INFO] 19:56:36:654 SacCli.log/(5284:5284): Se encontró y cargó el contenido de PUNTO_MONTAJE a la estructura. Valor: (null)
+[INFO] 19:56:36:654 SacCli.log/(5284:5284): fdSacServer:4
+[INFO] 19:56:36:654 SacCli.log/(5284:5284): ipServer:127.0.0.1
+[INFO] 19:56:36:654 SacCli.log/(5284:5284): portServer:8001
+[INFO] 19:56:36:654 SacCli.log/(5284:5284): [SOCKETS] Se pudo realizar la conexión entre el socket y el servidor.
+[INFO] 19:56:36:654 SacCli.log/(5284:5284): Servidor aceptado.
+
+[INFO] 19:56:36:654 SacCli.log/(5284:5284): Handshake recibido: SacServer
+
+[INFO] 16:53:35:778 SacCli.log/(1561:1561): Por setear los valores del archivo de configuracion
+[INFO] 16:53:35:779 SacCli.log/(1561:1561): Se encontró y cargó el contenido de PUNTO_MONTAJE a la estructura. Valor: (null)
+[INFO] 16:53:35:779 SacCli.log/(1561:1561): fdSacServer:4
+[INFO] 16:53:35:779 SacCli.log/(1561:1561): ipServer:127.0.0.1
+[INFO] 16:53:35:779 SacCli.log/(1561:1561): portServer:8001
+[INFO] 16:53:35:783 SacCli.log/(1561:1561): [SOCKETS] No se pudo realizar la conexión entre el socket y el servidor.
+[INFO] 16:54:21:275 SacCli.log/(1639:1639): Por setear los valores del archivo de configuracion
+[INFO] 16:54:21:276 SacCli.log/(1639:1639): Se encontró y cargó el contenido de PUNTO_MONTAJE a la estructura. Valor: (null)
+[INFO] 16:54:21:276 SacCli.log/(1639:1639): Leyendo Archivo de Configuracion..
+[INFO] 16:54:21:276 SacCli.log/(1639:1639): Se encontró y cargó el contenido de IP_SAC_SERVER a la estructura. Valor: 127.0.0.1
+[INFO] 16:54:21:276 SacCli.log/(1639:1639): Se encontró y cargó el contido del PUERTO_SAC_SERVER. Valor: 8001
+[INFO] 16:54:21:276 SacCli.log/(1639:1639): Se encontró y cargó el contido del PUERTO_SAC_CLI. Valor: 5775
+[INFO] 16:54:21:276 SacCli.log/(1639:1639): fdSacServer:4
+[INFO] 16:54:21:276 SacCli.log/(1639:1639): ipServer:127.0.0.1
+[INFO] 16:54:21:276 SacCli.log/(1639:1639): portServer:8001
+[INFO] 16:54:21:276 SacCli.log/(1639:1639): [SOCKETS] No se pudo realizar la conexión entre el socket y el servidor.
+[INFO] 16:54:36:22 SacCli.log/(1694:1694): Por setear los valores del archivo de configuracion
+[INFO] 16:54:36:31 SacCli.log/(1694:1694): Se encontró y cargó el contenido de PUNTO_MONTAJE a la estructura. Valor: (null)
+[INFO] 16:54:36:31 SacCli.log/(1694:1694): Leyendo Archivo de Configuracion..
+[INFO] 16:54:36:31 SacCli.log/(1694:1694): Se encontró y cargó el contenido de IP_SAC_SERVER a la estructura. Valor: 127.0.0.1
+[INFO] 16:54:36:31 SacCli.log/(1694:1694): Se encontró y cargó el contido del PUERTO_SAC_SERVER. Valor: 8001
+[INFO] 16:54:36:31 SacCli.log/(1694:1694): Se encontró y cargó el contido del PUERTO_SAC_CLI. Valor: 5775
+[INFO] 16:54:36:31 SacCli.log/(1694:1694): fdSacServer:4
+[INFO] 16:54:36:31 SacCli.log/(1694:1694): ipServer:127.0.0.1
+[INFO] 16:54:36:31 SacCli.log/(1694:1694): portServer:8001
+[INFO] 16:54:36:31 SacCli.log/(1694:1694): [SOCKETS] No se pudo realizar la conexión entre el socket y el servidor.
+[INFO] 16:55:20:260 SacCli.log/(1774:1774): Por setear los valores del archivo de configuracion
+[INFO] 16:55:20:264 SacCli.log/(1774:1774): Se encontró y cargó el contenido de PUNTO_MONTAJE a la estructura. Valor: (null)
+[INFO] 16:55:20:264 SacCli.log/(1774:1774): fdSacServer:4
+[INFO] 16:55:20:264 SacCli.log/(1774:1774): ipServer:127.0.0.1
+[INFO] 16:55:20:264 SacCli.log/(1774:1774): portServer:8001
+[INFO] 16:55:20:264 SacCli.log/(1774:1774): [SOCKETS] No se pudo realizar la conexión entre el socket y el servidor.
+[INFO] 16:55:29:704 SacCli.log/(1834:1834): Por setear los valores del archivo de configuracion
+[INFO] 16:55:29:709 SacCli.log/(1834:1834): Se encontró y cargó el contenido de PUNTO_MONTAJE a la estructura. Valor: (null)
+[INFO] 16:55:29:711 SacCli.log/(1834:1834): Leyendo Archivo de Configuracion..
+[INFO] 16:55:29:711 SacCli.log/(1834:1834): Se encontró y cargó el contenido de IP_SAC_SERVER a la estructura. Valor: 127.0.0.1
+[INFO] 16:55:29:711 SacCli.log/(1834:1834): Se encontró y cargó el contido del PUERTO_SAC_SERVER. Valor: 8001
+[INFO] 16:55:29:711 SacCli.log/(1834:1834): Se encontró y cargó el contido del PUERTO_SAC_CLI. Valor: 5775
+[INFO] 16:55:29:711 SacCli.log/(1834:1834): fdSacServer:4
+[INFO] 16:55:29:711 SacCli.log/(1834:1834): ipServer:127.0.0.1
+[INFO] 16:55:29:711 SacCli.log/(1834:1834): portServer:8001
+[INFO] 16:55:29:711 SacCli.log/(1834:1834): [SOCKETS] No se pudo realizar la conexión entre el socket y el servidor.
+[INFO] 16:57:12:413 SacCli.log/(1878:1878): Por setear los valores del archivo de configuracion
+[INFO] 16:57:12:949 SacCli.log/(1878:1878): Se encontró y cargó el contenido de PUNTO_MONTAJE a la estructura. Valor: (null)
+[INFO] 16:57:13:788 SacCli.log/(1878:1878): Leyendo Archivo de Configuracion..
+[INFO] 16:57:13:788 SacCli.log/(1878:1878): Se encontró y cargó el contenido de IP_SAC_SERVER a la estructura. Valor: 127.0.0.1
+[INFO] 16:57:13:788 SacCli.log/(1878:1878): Se encontró y cargó el contido del PUERTO_SAC_SERVER. Valor: 8001
+[INFO] 16:57:13:788 SacCli.log/(1878:1878): Se encontró y cargó el contido del PUERTO_SAC_CLI. Valor: 5775
+[INFO] 16:57:16:662 SacCli.log/(1878:1878): fdSacServer:4
+[INFO] 16:57:16:662 SacCli.log/(1878:1878): ipServer:127.0.0.1
+[INFO] 16:57:16:662 SacCli.log/(1878:1878): portServer:8001
+[INFO] 16:57:16:662 SacCli.log/(1878:1878): [SOCKETS] No se pudo realizar la conexión entre el socket y el servidor.
+[INFO] 16:57:57:635 SacCli.log/(1936:1936): Por setear los valores del archivo de configuracion
+[INFO] 16:58:13:157 SacCli.log/(1936:1936): Se encontró y cargó el contenido de PUNTO_MONTAJE a la estructura. Valor: (null)
+[INFO] 16:58:14:653 SacCli.log/(1936:1936): Leyendo Archivo de Configuracion..
+[INFO] 16:58:14:653 SacCli.log/(1936:1936): Se encontró y cargó el contenido de IP_SAC_SERVER a la estructura. Valor: 127.0.0.1
+[INFO] 16:58:14:653 SacCli.log/(1936:1936): Se encontró y cargó el contido del PUERTO_SAC_SERVER. Valor: 8001
+[INFO] 16:58:14:653 SacCli.log/(1936:1936): Se encontró y cargó el contido del PUERTO_SAC_CLI. Valor: 5775
+[INFO] 16:58:39:268 SacCli.log/(1936:1936): fdSacServer:4
+[INFO] 16:58:39:717 SacCli.log/(1936:1936): ipServer:127.0.0.1
+[INFO] 16:58:40:170 SacCli.log/(1936:1936): portServer:8001
+[INFO] 16:59:02:88 SacCli.log/(1936:1936): [SOCKETS] No se pudo realizar la conexión entre el socket y el servidor.
+[INFO] 19:40:16:903 SacCli.log/(5403:5403): Por setear los valores del archivo de configuracion
+[INFO] 19:40:17:652 SacCli.log/(5403:5403): Se encontró y cargó el contenido de PUNTO_MONTAJE a la estructura. Valor: (null)
+[INFO] 19:40:18:520 SacCli.log/(5403:5403): Leyendo Archivo de Configuracion..
+[INFO] 19:40:18:520 SacCli.log/(5403:5403): Se encontró y cargó el contenido de IP_SAC_SERVER a la estructura. Valor: 127.0.0.1
+[INFO] 19:40:18:520 SacCli.log/(5403:5403): Se encontró y cargó el contido del PUERTO_SAC_SERVER. Valor: 8001
+[INFO] 19:40:18:520 SacCli.log/(5403:5403): Se encontró y cargó el contido del PUERTO_SAC_CLI. Valor: 5775
+[INFO] 19:40:19:836 SacCli.log/(5403:5403): fdSacServer:4
+[INFO] 19:40:19:836 SacCli.log/(5403:5403): ipServer:127.0.0.1
+[INFO] 19:40:19:836 SacCli.log/(5403:5403): portServer:8001
+[INFO] 19:40:19:836 SacCli.log/(5403:5403): [SOCKETS] No se pudo realizar la conexión entre el socket y el servidor.
+[INFO] 19:41:21:435 SacCli.log/(5464:5464): Por setear los valores del archivo de configuracion
+[INFO] 19:41:22:205 SacCli.log/(5464:5464): Se encontró y cargó el contenido de PUNTO_MONTAJE a la estructura. Valor: (null)
+[INFO] 19:41:23:35 SacCli.log/(5464:5464): Leyendo Archivo de Configuracion..
+[INFO] 19:41:23:35 SacCli.log/(5464:5464): Se encontró y cargó el contenido de IP_SAC_SERVER a la estructura. Valor: 127.0.0.1
+[INFO] 19:41:23:35 SacCli.log/(5464:5464): Se encontró y cargó el contido del PUERTO_SAC_SERVER. Valor: 8001
+[INFO] 19:41:23:35 SacCli.log/(5464:5464): Se encontró y cargó el contido del PUERTO_SAC_CLI. Valor: 5775
+[INFO] 19:41:26:819 SacCli.log/(5464:5464): fdSacServer:4
+[INFO] 19:41:27:492 SacCli.log/(5464:5464): ipServer:127.0.0.1
+[INFO] 19:41:28:147 SacCli.log/(5464:5464): portServer:8001
+[INFO] 19:42:01:461 SacCli.log/(5464:5464): [SOCKETS] No se pudo realizar la conexión entre el socket y el servidor.
+[INFO] 16:42:50:903 SacCli.log/(27028:27028): Por setear los valores del archivo de configuracion
+[INFO] 16:42:50:903 SacCli.log/(27028:27028): Se encontró y cargó el contenido de PUNTO_MONTAJE a la estructura. Valor: (null)
+[INFO] 16:42:50:904 SacCli.log/(27028:27028): Leyendo Archivo de Configuracion..
+[INFO] 16:42:50:904 SacCli.log/(27028:27028): Se encontró y cargó el contenido de IP_SAC_SERVER a la estructura. Valor: 127.0.0.1
+[INFO] 16:42:50:904 SacCli.log/(27028:27028): Se encontró y cargó el contido del PUERTO_SAC_SERVER. Valor: 8001
+[INFO] 16:42:50:904 SacCli.log/(27028:27028): Se encontró y cargó el contido del PUERTO_SAC_CLI. Valor: 5775
+[INFO] 16:42:50:904 SacCli.log/(27028:27028): fdSacServer:4
+[INFO] 16:42:50:904 SacCli.log/(27028:27028): ipServer:127.0.0.1
+[INFO] 16:42:50:904 SacCli.log/(27028:27028): portServer:8001
+[INFO] 16:42:50:904 SacCli.log/(27028:27028): [SOCKETS] No se pudo realizar la conexión entre el socket y el servidor.
+[INFO] 16:44:43:965 SacCli.log/(27072:27072): Por setear los valores del archivo de configuracion
+[INFO] 16:44:44:590 SacCli.log/(27072:27072): Se encontró y cargó el contenido de PUNTO_MONTAJE a la estructura. Valor: (null)
+[INFO] 16:44:45:453 SacCli.log/(27072:27072): Leyendo Archivo de Configuracion..
+[INFO] 16:44:45:453 SacCli.log/(27072:27072): Se encontró y cargó el contenido de IP_SAC_SERVER a la estructura. Valor: 127.0.0.1
+[INFO] 16:44:45:453 SacCli.log/(27072:27072): Se encontró y cargó el contido del PUERTO_SAC_SERVER. Valor: 8001
+[INFO] 16:44:45:453 SacCli.log/(27072:27072): Se encontró y cargó el contido del PUERTO_SAC_CLI. Valor: 5775
+[INFO] 16:44:47:75 SacCli.log/(27072:27072): fdSacServer:4
+[INFO] 16:44:47:75 SacCli.log/(27072:27072): ipServer:127.0.0.1
+[INFO] 16:44:47:75 SacCli.log/(27072:27072): portServer:8001
+[INFO] 16:44:47:75 SacCli.log/(27072:27072): [SOCKETS] No se pudo realizar la conexión entre el socket y el servidor.

@@ -1,0 +1,42 @@
+stat stmode
+
+		dev_t     st_dev     ID of device containing file
+		ino_t     st_ino     file serial number
+		mode_t    st_mode    mode of file (see below)
+		nlink_t   st_nlink   number of links to the file
+		uid_t     st_uid     user ID of file
+		gid_t     st_gid     group ID of file
+		dev_t     st_rdev    device ID (if file is character or block special)
+		off_t     st_size    file size in bytes (if file is a regular file)
+		time_t    st_atime   time of last access
+		time_t    st_mtime   time of last data modification
+		time_t    st_ctime   time of last status change
+		blksize_t st_blksize a filesystem-specific preferred I/O block size for this object.  In some filesystem types, this may vary from file to file
+		blkcnt_t  st_blocks  number of blocks allocated for this object
+
+		 The following symbolic names for the values of st_mode are also defined:
+
+			File type:
+
+			S_IFMT				S_IFBLK					S_IFCHR
+				type of file		block special			character special
+
+			S_IFIFO				S_IFREG					S_IFDIR				S_IFLNK
+				FIFO special		regular					directory			symbolic link
+
+			File mode bits:
+
+			S_IRWXU												S_IRUSR							S_IWUSR
+				read, write, execute/search by owner				read permission, owner 			write permission, owner
+
+			S_IXUSR										S_IRWXG											S_IRGRP
+				execute/search permission, owner			read, write, execute/search by group			read permission, group
+
+			S_IWGRP								S_IXGRP										S_IRWXO
+				write permission, group				execute/search permission, group			read, write, execute/search by others
+
+			S_IROTH								S_IWOTH										S_IXOTH
+				read permission, others				write permission, others					execute/search permission, others
+
+			S_ISUID								S_ISGID										S_ISVTX
+				set-user-ID on execution			set-group-ID on execution					on directories, restricted deletion flag

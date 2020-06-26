@@ -1,0 +1,88 @@
+[INFO] 09:17:04:568 SacCli.log/(32761:32761): Por setear los valores del archivo de configuracion
+[INFO] 09:17:04:568 SacCli.log/(32761:32761): Se encontró y cargó el contenido de PUNTO_MONTAJE a la estructura. Valor: (null)
+[INFO] 09:17:04:569 SacCli.log/(32761:32761): Leyendo Archivo de Configuracion..
+[INFO] 09:17:04:569 SacCli.log/(32761:32761): Se encontró y cargó el contenido de IP_SAC_SERVER a la estructura. Valor: 127.0.0.1
+[INFO] 09:17:04:569 SacCli.log/(32761:32761): Se encontró y cargó el contido del PUERTO_SAC_SERVER. Valor: 8001
+[INFO] 09:17:04:569 SacCli.log/(32761:32761): Se encontró y cargó el contido del PUERTO_SAC_CLI. Valor: 5775
+[INFO] 09:17:04:569 SacCli.log/(32761:32761): fdSacServer:4
+[INFO] 09:17:04:569 SacCli.log/(32761:32761): ipServer:127.0.0.1
+[INFO] 09:17:04:569 SacCli.log/(32761:32761): portServer:8001
+[INFO] 09:17:04:569 SacCli.log/(32761:32761): [SOCKETS] No se pudo realizar la conexión entre el socket y el servidor.
+[INFO] 09:24:15:348 SacCli.log/(557:557): Por setear los valores del archivo de configuracion
+[INFO] 09:24:15:348 SacCli.log/(557:557): Se encontró y cargó el contenido de PUNTO_MONTAJE a la estructura. Valor: (null)
+[INFO] 09:24:15:348 SacCli.log/(557:557): Leyendo Archivo de Configuracion..
+[INFO] 09:24:15:349 SacCli.log/(557:557): Se encontró y cargó el contenido de IP_SAC_SERVER a la estructura. Valor: 127.0.0.1
+[INFO] 09:24:15:349 SacCli.log/(557:557): Se encontró y cargó el contido del PUERTO_SAC_SERVER. Valor: 8001
+[INFO] 09:24:15:349 SacCli.log/(557:557): Se encontró y cargó el contido del PUERTO_SAC_CLI. Valor: 5775
+[INFO] 09:24:15:349 SacCli.log/(557:557): fdSacServer:4
+[INFO] 09:24:15:349 SacCli.log/(557:557): ipServer:127.0.0.1
+[INFO] 09:24:15:349 SacCli.log/(557:557): portServer:8001
+[INFO] 09:24:15:349 SacCli.log/(557:557): [SOCKETS] No se pudo realizar la conexión entre el socket y el servidor.
+[INFO] 19:40:12:836 SacCli.log/(4410:4410): Por setear los valores del archivo de configuracion
+[INFO] 19:40:12:837 SacCli.log/(4410:4410): Se encontró y cargó el contenido de PUNTO_MONTAJE a la estructura. Valor: (null)
+[INFO] 19:40:12:837 SacCli.log/(4410:4410): Leyendo Archivo de Configuracion..
+[INFO] 19:40:12:837 SacCli.log/(4410:4410): Se encontró y cargó el contenido de IP_SAC_SERVER a la estructura. Valor: 127.0.0.1
+[INFO] 19:40:12:837 SacCli.log/(4410:4410): Se encontró y cargó el contido del PUERTO_SAC_SERVER. Valor: 8001
+[INFO] 19:40:12:837 SacCli.log/(4410:4410): Se encontró y cargó el contido del PUERTO_SAC_CLI. Valor: 5775
+[INFO] 19:40:12:837 SacCli.log/(4410:4410): fdSacServer:4
+[INFO] 19:40:12:837 SacCli.log/(4410:4410): ipServer:127.0.0.1
+[INFO] 19:40:12:837 SacCli.log/(4410:4410): portServer:8001
+[INFO] 19:40:12:837 SacCli.log/(4410:4410): [SOCKETS] No se pudo realizar la conexión entre el socket y el servidor.
+[INFO] 19:40:25:834 SacCli.log/(4412:4412): Por setear los valores del archivo de configuracion
+[INFO] 19:40:25:834 SacCli.log/(4412:4412): Se encontró y cargó el contenido de PUNTO_MONTAJE a la estructura. Valor: (null)
+[INFO] 19:40:25:834 SacCli.log/(4412:4412): Leyendo Archivo de Configuracion..
+[INFO] 19:40:25:834 SacCli.log/(4412:4412): Se encontró y cargó el contenido de IP_SAC_SERVER a la estructura. Valor: 127.0.0.1
+[INFO] 19:40:25:834 SacCli.log/(4412:4412): Se encontró y cargó el contido del PUERTO_SAC_SERVER. Valor: 8001
+[INFO] 19:40:25:834 SacCli.log/(4412:4412): Se encontró y cargó el contido del PUERTO_SAC_CLI. Valor: 5775
+[INFO] 19:40:25:834 SacCli.log/(4412:4412): fdSacServer:4
+[INFO] 19:40:25:834 SacCli.log/(4412:4412): ipServer:127.0.0.1
+[INFO] 19:40:25:834 SacCli.log/(4412:4412): portServer:8001
+[INFO] 19:40:25:834 SacCli.log/(4412:4412): [SOCKETS] No se pudo realizar la conexión entre el socket y el servidor.
+[INFO] 16:42:21:749 SacCli.log/(1222:1222): Por setear los valores del archivo de configuracion
+[INFO] 16:42:21:750 SacCli.log/(1222:1222): Se encontró y cargó el contenido de PUNTO_MONTAJE a la estructura. Valor: (null)
+[INFO] 16:42:21:750 SacCli.log/(1222:1222): Leyendo Archivo de Configuracion..
+[INFO] 16:42:21:750 SacCli.log/(1222:1222): Se encontró y cargó el contenido de IP_SAC_SERVER a la estructura. Valor: 127.0.0.1
+[INFO] 16:42:21:750 SacCli.log/(1222:1222): Se encontró y cargó el contido del PUERTO_SAC_SERVER. Valor: 8001
+[INFO] 16:42:21:750 SacCli.log/(1222:1222): Se encontró y cargó el contido del PUERTO_SAC_CLI. Valor: 5775
+[INFO] 16:42:21:750 SacCli.log/(1222:1222): fdSacServer:4
+[INFO] 16:42:21:750 SacCli.log/(1222:1222): ipServer:127.0.0.1
+[INFO] 16:42:21:750 SacCli.log/(1222:1222): portServer:8001
+[INFO] 16:42:21:751 SacCli.log/(1222:1222): [SOCKETS] Se pudo realizar la conexión entre el socket y el servidor.
+[INFO] 16:42:21:751 SacCli.log/(1222:1222): Servidor rechazado.
+
+[INFO] 16:43:50:343 SacCli.log/(1245:1245): Por setear los valores del archivo de configuracion
+[INFO] 16:43:50:343 SacCli.log/(1245:1245): Se encontró y cargó el contenido de PUNTO_MONTAJE a la estructura. Valor: (null)
+[INFO] 16:43:50:343 SacCli.log/(1245:1245): Leyendo Archivo de Configuracion..
+[INFO] 16:43:50:343 SacCli.log/(1245:1245): Se encontró y cargó el contenido de IP_SAC_SERVER a la estructura. Valor: 127.0.0.1
+[INFO] 16:43:50:343 SacCli.log/(1245:1245): Se encontró y cargó el contido del PUERTO_SAC_SERVER. Valor: 8001
+[INFO] 16:43:50:343 SacCli.log/(1245:1245): Se encontró y cargó el contido del PUERTO_SAC_CLI. Valor: 5775
+[INFO] 16:43:50:343 SacCli.log/(1245:1245): fdSacServer:4
+[INFO] 16:43:50:343 SacCli.log/(1245:1245): ipServer:127.0.0.1
+[INFO] 16:43:50:343 SacCli.log/(1245:1245): portServer:8001
+[INFO] 16:43:50:343 SacCli.log/(1245:1245): [SOCKETS] Se pudo realizar la conexión entre el socket y el servidor.
+[INFO] 16:43:50:343 SacCli.log/(1245:1245): Servidor rechazado.
+
+[INFO] 16:44:03:466 SacCli.log/(1252:1252): Por setear los valores del archivo de configuracion
+[INFO] 16:44:03:466 SacCli.log/(1252:1252): Se encontró y cargó el contenido de PUNTO_MONTAJE a la estructura. Valor: (null)
+[INFO] 16:44:03:466 SacCli.log/(1252:1252): Leyendo Archivo de Configuracion..
+[INFO] 16:44:03:466 SacCli.log/(1252:1252): Se encontró y cargó el contenido de IP_SAC_SERVER a la estructura. Valor: 127.0.0.1
+[INFO] 16:44:03:466 SacCli.log/(1252:1252): Se encontró y cargó el contido del PUERTO_SAC_SERVER. Valor: 8001
+[INFO] 16:44:03:466 SacCli.log/(1252:1252): Se encontró y cargó el contido del PUERTO_SAC_CLI. Valor: 5775
+[INFO] 16:44:03:466 SacCli.log/(1252:1252): fdSacServer:4
+[INFO] 16:44:03:466 SacCli.log/(1252:1252): ipServer:127.0.0.1
+[INFO] 16:44:03:466 SacCli.log/(1252:1252): portServer:8001
+[INFO] 16:44:03:466 SacCli.log/(1252:1252): [SOCKETS] Se pudo realizar la conexión entre el socket y el servidor.
+[INFO] 16:44:03:469 SacCli.log/(1252:1252): Servidor rechazado.
+
+[INFO] 16:44:43:846 SacCli.log/(1261:1261): Por setear los valores del archivo de configuracion
+[INFO] 16:44:43:846 SacCli.log/(1261:1261): Se encontró y cargó el contenido de PUNTO_MONTAJE a la estructura. Valor: (null)
+[INFO] 16:44:43:846 SacCli.log/(1261:1261): Leyendo Archivo de Configuracion..
+[INFO] 16:44:43:846 SacCli.log/(1261:1261): Se encontró y cargó el contenido de IP_SAC_SERVER a la estructura. Valor: 127.0.0.1
+[INFO] 16:44:43:846 SacCli.log/(1261:1261): Se encontró y cargó el contido del PUERTO_SAC_SERVER. Valor: 8001
+[INFO] 16:44:43:846 SacCli.log/(1261:1261): Se encontró y cargó el contido del PUERTO_SAC_CLI. Valor: 5775
+[INFO] 16:44:43:846 SacCli.log/(1261:1261): fdSacServer:4
+[INFO] 16:44:43:846 SacCli.log/(1261:1261): ipServer:127.0.0.1
+[INFO] 16:44:43:846 SacCli.log/(1261:1261): portServer:8001
+[INFO] 16:44:43:846 SacCli.log/(1261:1261): [SOCKETS] Se pudo realizar la conexión entre el socket y el servidor.
+[INFO] 16:44:43:846 SacCli.log/(1261:1261): Servidor rechazado.
+

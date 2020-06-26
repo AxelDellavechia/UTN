@@ -1,0 +1,5 @@
+[INFO] 21:45:20:451 SacCli.log/(10559:10559): Por setear los valores del archivo de configuracion
+[INFO] 21:45:20:451 SacCli.log/(10559:10559): LFS: Leyendo Archivo de Configuracion..
+[INFO] 21:45:20:451 SacCli.log/(10559:10559): Se encontró y cargó el contido del IP_SAC SERVER a la estrcutra. Valor: 172
+[INFO] 21:45:20:451 SacCli.log/(10559:10559): Se encontró y cargó el contenido de PUERTO_SAC SERVER a la estructura. Valor: 8001
+[INFO] 21:45:20:451 SacCli.log/(10559:10559): [SOCKETS] No se pudo realizar la conexión entre el socket y el servidor.
